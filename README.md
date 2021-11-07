@@ -10,3 +10,6 @@ valida, in caz contrar, afiseaza o eroare, si mai are un buton de stergere a val
 - ElevatedButton pentru a converti suma introdusa in EUR. Daca nu este introdusa nicio valoare va afisa 
 o eroare,altfel va converti valoarea data;
 - Text care afiseaza suma convertita in RON. 
+
+# demo
+![alt-text](https://github.com/yaseminmenan/currency_convertor/blob/main/assets/demonstration.gif)
