@@ -12,4 +12,4 @@ o eroare,altfel va converti valoarea data;
 - Text care afiseaza suma convertita in RON. 
 
 # demo
-![alt-text](https://github.com/yaseminmenan/currency_convertor/blob/main/assets/demonstration.gif)
+![gif-demo](https://github.com/yaseminmenan/currency_convertor/blob/main/assets/demonstration2.gif)
